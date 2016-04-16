@@ -1,0 +1,11 @@
+{
+  "name": "netoflux",
+  "version": "0.0.1",
+  "dependencies": {
+    "csv": "^0.4.6"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
